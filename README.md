@@ -1,4 +1,4 @@
-# Proje Adı: **Taskify - Modern Görev Yönetim Platformu**
+**Taskify - Modern Görev Yönetim Platformu**
 
 Taskify, bireysel kullanıcılar ve ekipler için görev yönetimini kolaylaştıran, kullanıcı dostu ve özelleştirilebilir bir platformdur. React, Zustand, Tailwind CSS, DaisyUI ve Chart.js gibi modern teknolojilerle geliştirilmiş olan bu proje, iş süreçlerinizi daha verimli hale getirmeyi hedefler.
 
